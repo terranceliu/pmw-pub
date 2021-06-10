@@ -2,7 +2,9 @@
 
 The ADULT dataset has already been preprocessed and added to this repository. 
 
-To obtain the ACS data used in our work, please follow these steps:
+To obtain the ACS data used in our work, add the files found [here](https://drive.google.com/drive/folders/1YrrGdUdIzP_p36H_lCXa8o3RDvByblDc?usp=sharing) to ./Datasets
+
+You can also obtain the files by following these steps:
 
 1) Go to the IPUMS USA website (https://usa.ipums.org/) and add the following variables to your data cart:
 ````
