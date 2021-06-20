@@ -45,3 +45,9 @@ For example,
 ./scripts/acs_PA/run_pmw_pub.sh
 ````
 Executes our method, PMW<sup>Pub</sup>, on the 2018 ACS Data for Pennsylvania (PA-18) using Ohio (OH-18) as the public dataset.
+
+# Acknowledgements
+
+We adapt code from
+
+1) https://github.com/giusevtr/fem
