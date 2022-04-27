@@ -2,8 +2,6 @@
 
 The ADULT dataset has already been preprocessed and added to this repository. 
 
-To obtain the ACS data used in our work, add the files found [here](https://drive.google.com/drive/folders/1YrrGdUdIzP_p36H_lCXa8o3RDvByblDc?usp=sharing) to ./Datasets
-
 You can also obtain the files by following these steps:
 
 1) Go to the IPUMS USA website (https://usa.ipums.org/) and add the following variables to your data cart:
@@ -45,3 +43,9 @@ For example,
 ./scripts/acs_PA/run_pmw_pub.sh
 ````
 Executes our method, PMW<sup>Pub</sup>, on the 2018 ACS Data for Pennsylvania (PA-18) using Ohio (OH-18) as the public dataset.
+
+# Acknowledgements
+
+We adapt code from
+
+1) https://github.com/giusevtr/fem
