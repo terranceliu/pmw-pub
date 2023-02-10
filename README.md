@@ -1,3 +1,6 @@
+This code contains code for reproducing empirical results found in [Leveraging Public Data for Practical Private Query Release](https://arxiv.org/abs/2102.08598). We have released a more user-friendly version of this code for running PMW^Pub [here](https://github.com/terranceliu/dp-query-release).
+
+
 # Data
 
 The ADULT dataset has already been preprocessed and added to this repository. 
